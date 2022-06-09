@@ -756,6 +756,11 @@ a:focus {
     color: #E81C2E;
 }
 
+@media(max-width:576px){
+    .tableactive{
+        font-size: 10px;
+    }
+}
 
 /*******************************/
 /********** Facts CSS **********/
